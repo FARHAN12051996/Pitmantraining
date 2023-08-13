@@ -1,0 +1,12 @@
+/* Css Commenting code*/
+p {
+	 background-color: black;
+     color: yellow;
+     font-size: large;
+	 font-weight: bold;
+	 text-align: center;
+}
+	
+h1 {
+	text-shadow : 20px 13px 5px;
+}
